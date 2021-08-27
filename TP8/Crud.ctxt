@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Crud
+comment1.params=connection
+comment1.target=Crud(java.sql.Connection)
+comment2.params=Nome\ Matricula
+comment2.target=boolean\ create(java.lang.String,\ int)
+comment3.params=Nome\ Matricula
+comment3.target=boolean\ read(java.lang.String,\ int)
+comment4.params=Nome
+comment4.target=boolean\ detect(java.lang.String)
+comment5.params=Matricula\ Nome
+comment5.target=boolean\ update(int,\ java.lang.String)
+comment6.params=Matricula
+comment6.target=boolean\ delete(int)
+numComments=7
